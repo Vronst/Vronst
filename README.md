@@ -31,6 +31,7 @@
 
 ## About Me
 I'm a junior backend developer focused on building clean, scalable web apps.  
+I'm on my third year of Computer Science.
 I enjoy learning new technologies and contributing to open-source projects when I can.
 
 ---
