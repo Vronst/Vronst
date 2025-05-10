@@ -1,15 +1,15 @@
-# 👋 Welcome to my GitHub! I'm Adam.
+# Welcome to my GitHub! I'm Adam.
 
-## Junior Backend Developer passionate about Python 🐍 and web technologies 🕸️.
+## Junior Backend Developer passionate about Python 🐍 and web technologies.
 
 ---
 
-## 📚 Table of Contents
-- [Main Skills 🛠](#main-skills)
-- [About Me 🙋](#about-me)
-- [Currently Working On 🚧](#currently-working-on)
-- [Stats 📊](#stats)
-- [Connect With Me 📫](#connect-with-me)
+## Table of Contents
+- [Main Skills](#main-skills)
+- [About Me](#about-me)
+- [Currently Working On](#currently-working-on)
+- [Stats](#stats)
+- [Connect With Me](#connect-with-me)
 
 ---
 
@@ -31,7 +31,7 @@
 
 ## About Me
 I'm a junior backend developer focused on building clean, scalable web apps.  
-I'm on my third year of Computer Science.
+I'm in my third year of Computer Science. <br>
 I enjoy learning new technologies and contributing to open-source projects when I can.
 
 ---
